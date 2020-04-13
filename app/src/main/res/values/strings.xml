@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Firebases2020</string>
+    <string name="hNombre">Nombre</string>
+    <string name="hCorreo">Email</string>
+    <string name="hPassword">Password</string>
+    <string name="txtRegistrar">Registrar</string>
+    <string name="txtCerrarSesion">Cerrar Sesion</string>
+    <string name="txtIniciar">Iniciar Sesion</string>
+    <string name="etUsuario">Usuario - Email</string>
+</resources>

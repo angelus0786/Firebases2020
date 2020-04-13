@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "389297510645",
+    "firebase_url": "https://fir-2020-e8ec6.firebaseio.com",
+    "project_id": "fir-2020-e8ec6",
+    "storage_bucket": "fir-2020-e8ec6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:389297510645:android:5af137e33dcc65c6574dbc",
+        "android_client_info": {
+          "package_name": "mx.edu.itsmt.firebases2020"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "389297510645-gdekaib2g8jvjfu3jnfdh479lno6ps27.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCfotrtOvQ2C6TNR5HPUhK7K-zB9SBsRT8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "389297510645-gdekaib2g8jvjfu3jnfdh479lno6ps27.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
